@@ -19,12 +19,6 @@ Create HTML, CSS and JAVASCRIPT program for the calculator
 CSS for design and JavaScript for the calculator
 
 ### Step 5:
-Validate HTML, CSS and JavaScript code.
-
-### Step 6:
-Validate the HTML and CSS code.
-
-### Step 6:
 Publish your URL and test the Calculator.
 
 ## PROGRAM :
