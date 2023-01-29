@@ -156,13 +156,11 @@ for (item of buttons) {
 
 ## OUTPUT:
 
-![OUTPUT](./calci.png)
+![OUTPUT](./out3.png)
 
-![OUTPUT](./1.png)
+![OUTPUT](./img2.png)
 
 ![OUTPUT](./2.png)
-
-![OUTPUT](./3.png)
 
 ![OUTPUT](./4.png)
 
